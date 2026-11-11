@@ -41,6 +41,21 @@ CourseMate AI is an intelligent academic assistant that helps students find answ
 - python-docx
 - PyPDF
 
+## 🖥️ Application Screenshots
+
+### Main Interface
+![Main Interface](Screenshot%202026-11-11%20163756.png)
+
+### Course Selection and Question Answering
+![Question Answering](Screenshot%202026-11-11%20163950.png)
+
+### Retrieved Sources
+![Retrieved Sources](Screenshot%202026-11-11%20164007.png)
+
+### Source Document Viewer
+![Source Viewer](Screenshot%202026-11-11%20164136.png)
+
+
 ## 📂 Project Structure
 
 ```text
