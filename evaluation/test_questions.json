@@ -1,0 +1,45 @@
+
+[
+  {
+    "question": "What is a variable in Python?",
+    "expected_course": "python",
+    "expected_source": "python_concepts.csv",
+    "expected_keywords": ["named reference", "stored value"]
+  },
+  {
+    "question": "What is a tuple in Python?",
+    "expected_course": "python",
+    "expected_source": "python_concepts.csv",
+    "expected_keywords": ["ordered", "immutable"]
+  },
+  {
+    "question": "What is supervised learning?",
+    "expected_course": "machine_learning",
+    "expected_source": "machine_learning_notes.docx",
+    "expected_keywords": ["labeled", "training data"]
+  },
+  {
+    "question": "What is overfitting in machine learning?",
+    "expected_course": "machine_learning",
+    "expected_source": "machine_learning_notes.docx",
+    "expected_keywords": ["training data", "generalization"]
+  },
+  {
+    "question": "What is a primary key?",
+    "expected_course": "database",
+    "expected_source": "Database_Design.pdf",
+    "expected_keywords": ["uniquely identifies", "rows"]
+  },
+  {
+    "question": "What is a foreign key?",
+    "expected_course": "database",
+    "expected_source": "Database_Design.pdf",
+    "expected_keywords": ["another table", "primary key"]
+  },
+  {
+    "question": "Explain the history of ancient Egyptian civilization.",
+    "expected_course": null,
+    "expected_source": null,
+    "expected_keywords": []
+  }
+]
