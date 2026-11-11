@@ -1,8 +1,0 @@
-streamlit
-chromadb
-sentence-transformers
-python-dotenv
-google-genai
-pypdf
-python-docx
-pandas
